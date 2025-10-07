@@ -1,1 +1,1 @@
-![README Banner](README_banner.png)
+![README Banner](NECBanner.png)
